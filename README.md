@@ -1,4 +1,5 @@
 # RR-verkefni4 Andri Fannar  
+**Keyranlegur kóði fylgir hér að ofan**  
 
 **1. Skoðaðu myndina vel og svaraðu spurningum:**  
 **a) Hvað gerir forritið hér fyrir neðan?**  
@@ -81,4 +82,5 @@ listi = setja_inn(listi, tala)
 print(listi)
 ```  
 **6.**  
+Ég klóraði mér mikið í hausnum yfir þessu, er búinn að vera veikur alla vikuna og var erlendis í síðustu viku þannig ég missti alveg af yfirferðinni í tíma fyrir þetta verkefni. Ég skil þetta ekki alveg nógu vel.
 
