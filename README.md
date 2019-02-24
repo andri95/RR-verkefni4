@@ -82,5 +82,5 @@ listi = setja_inn(listi, tala)
 print(listi)
 ```  
 **6.**  
-Ég klóraði mér mikið í hausnum yfir þessu, er búinn að vera veikur alla vikuna og var erlendis í síðustu viku þannig ég missti alveg af yfirferðinni í tíma fyrir þetta verkefni. Ég skil þetta ekki alveg nógu vel.
+Ég klóraði mér mikið í hausnum yfir þessu, er búinn að vera veikur alla vikuna og var erlendis í síðustu viku þannig ég missti alveg af yfirferðinni í tíma fyrir þetta verkefni. Ég skil þetta ekki alveg nógu vel, fékk upp eh errora þegar ég skrifaði Node og Tree clasana inn í pycharm..
 
