@@ -56,7 +56,7 @@ if utkoma == -1:
 else:
     print("Talan ",stak," er í sæti ",utkoma)
 ```  
-**4. Flækjustig: **  
+**4. Flækjustig:**  
 **a) Hvert er flækjustig forritsins í lið 2?**  
 O(n) held ég þar sem flækjustigið er bara ein for lykkja.  
 **b) Hvert er flækjustig forritsins í lið 3?**  
